@@ -10,7 +10,7 @@ Rapid Address De-Identifier (RAD) is a Java Swing based thick client application
 ### Typical Use Case
 ![Geocoding Use Case](https://github.com/CDCgov/EPHTracking-RAD/blob/master/RAD.png)
 
-For questions about anything housed or referenced in this repository please contact ephtrackingsupport@cdc.gov. 
+For questions about anything housed or referenced in this repository please contact trackingsupport@cdc.gov. 
 
 ## Public Domain Standard Notice
 This repository constitutes a work of the United States Government and is not
